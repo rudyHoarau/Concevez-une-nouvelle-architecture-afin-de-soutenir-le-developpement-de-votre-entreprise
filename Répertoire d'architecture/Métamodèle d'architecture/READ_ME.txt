@@ -1,0 +1,1 @@
+Le métamodèle d'architecture décrit l'application adaptée à l'organisation d'un cadre d'architecture, y compris une méthode de développement d'architecture et un métamodèle de contenu d'architecture.

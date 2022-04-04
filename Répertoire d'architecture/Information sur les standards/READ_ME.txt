@@ -1,0 +1,1 @@
+La base d'informations sur les normes capture les normes auxquelles les nouvelles architectures doivent se conformer, qui peuvent inclure des normes de l'industrie, des produits et services sélectionnés de fournisseurs ou des services partagés déjà déployés au sein de l'organisation.

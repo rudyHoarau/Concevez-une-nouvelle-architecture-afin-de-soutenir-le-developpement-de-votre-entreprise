@@ -1,0 +1,3 @@
+Le référentiel d'exigences est utilisé par la phase de gestion des exigences de la méthode de développement d'architecture (ADM) pour enregistrer et gérer toutes les informations relatives aux exigences d'architecture. Les exigences traitent des nombreux types d'exigences d'architecture ; c'est-à-dire les exigences stratégiques, de segment et de capacité qui sont les principaux moteurs de l'architecture d'entreprise.
+
+Les exigences peuvent être rassemblées à chaque étape du cycle de vie du développement de l'architecture et doivent être approuvées à travers les différentes phases et processus de gouvernance.

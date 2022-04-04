@@ -1,0 +1,1 @@
+La bibliothèque de référence fournit des directives, des modèles, des modèles et d'autres formes de matériel de référence qui peuvent être exploités afin d'accélérer la création de nouvelles architectures pour l'entreprise.

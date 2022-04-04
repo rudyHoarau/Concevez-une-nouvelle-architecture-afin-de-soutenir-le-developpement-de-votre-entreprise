@@ -1,0 +1,1 @@
+La capacité d'architecture définit les paramètres, les structures et les processus qui prennent en charge la gouvernance du référentiel d'architecture

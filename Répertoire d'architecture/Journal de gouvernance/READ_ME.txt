@@ -1,0 +1,1 @@
+Le journal de gouvernance fournit un enregistrement de l'activité de gouvernance dans l'entreprise.
